@@ -2,5 +2,5 @@ I am Developer1
 I am from banglore and bla
 I am very good fine and bla and i am first
 I am harsh koradiya and i am first
-I am mobile
-I am not mobile
+I am mobile and leptop
+I am not mobile and leptop
