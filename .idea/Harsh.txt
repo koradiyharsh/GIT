@@ -1,4 +1,4 @@
 I am Developer1
 I am from banglore
-I am adding 5th line
-I am adding 6th line
+I check merge only
+I am fine right now
